@@ -2,4 +2,8 @@ body, html {
   height: 100%;
 }
 
+$blue: #61dafb;
+$navbar-dark-active-color: $blue;
+$navbar-dark-hover-color: $blue;
+
 @import '~bootstrap/scss/bootstrap.scss';
